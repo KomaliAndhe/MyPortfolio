@@ -1,2 +1,3 @@
 # MyPortfolio
-project
+
+This is my personal portfolio website is designed to showcase my individual skills, projects, certifications and achievements in a visually appealing and interactive format. This project includes multiple sections such as an introduction, about me, project gallery, certifications, contact form, and social media links. Built using HTML, CSS, and JavaScript the site is fully responsive and optimized for both desktop and mobile devices. The goal of the portfolio is to present a professional digital presence that can be shared with recruiters, clients, or collaborators to highlight one’s work, creativity, and technical expertise.
